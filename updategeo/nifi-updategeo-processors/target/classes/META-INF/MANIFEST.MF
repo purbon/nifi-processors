@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: nifi-updategeo-processors
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: purbon
+Specification-Vendor: Apache NiFi Project
+Specification-Title: nifi-updategeo-processors
+Implementation-Vendor-Id: com.purbon.nifi
+Build-Jdk: 1.8.0_102
+Specification-Version: 1.0-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Apache NiFi Project
+
